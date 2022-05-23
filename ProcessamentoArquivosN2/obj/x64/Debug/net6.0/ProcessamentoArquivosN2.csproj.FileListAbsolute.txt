@@ -1,0 +1,15 @@
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\bin\x64\Debug\net6.0\ProcessamentoArquivosN2.exe
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\bin\x64\Debug\net6.0\ProcessamentoArquivosN2.deps.json
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\bin\x64\Debug\net6.0\ProcessamentoArquivosN2.runtimeconfig.json
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\bin\x64\Debug\net6.0\ProcessamentoArquivosN2.dll
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\bin\x64\Debug\net6.0\ProcessamentoArquivosN2.pdb
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ProcessamentoArquivosN2.csproj.AssemblyReference.cache
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ProcessamentoArquivosN2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ProcessamentoArquivosN2.AssemblyInfoInputs.cache
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ProcessamentoArquivosN2.AssemblyInfo.cs
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ProcessamentoArquivosN2.csproj.CoreCompileInputs.cache
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ProcessamentoArquivosN2.dll
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\refint\ProcessamentoArquivosN2.dll
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ProcessamentoArquivosN2.pdb
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ProcessamentoArquivosN2.genruntimeconfig.cache
+C:\Users\vinio\facul\ec3\estrutura_dados\ProcessamentoArquivosN2\ProcessamentoArquivosN2\obj\x64\Debug\net6.0\ref\ProcessamentoArquivosN2.dll
